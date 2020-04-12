@@ -7,7 +7,7 @@
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
-const cv = require('opencv.js');
+const cv = require('../libs/opencv');
 
 @Component
 export default class OpenCvTest extends Vue {
