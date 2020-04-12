@@ -6,7 +6,7 @@
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
-import OpenCvTest from './components/OpenCvTest.vue'
+import OpenCvTest from './components/OpenCvSample.vue'
 
 @Component({
   components: {
